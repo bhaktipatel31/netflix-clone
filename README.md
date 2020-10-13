@@ -9,7 +9,7 @@ Link to view the site: https://netflix-clone-e7eb1.web.app/.
 * React
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was inspired by the Netflix interface and was reproduced for study purposes to practice React. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
