@@ -3,6 +3,8 @@
 To view the netlix-clone, click on this link: https://netflix-clone-e7eb1.web.app/.
 
 # Tools
+* CSS
+* HTML
 * JavaScript
 * React
 
