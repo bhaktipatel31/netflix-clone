@@ -1,12 +1,10 @@
 # Netflix-Clone
 
-
-
 To view the netlix-clone, click on this link: https://netflix-clone-e7eb1.web.app/.
 
 # Tools
-JavaScript
-React
+* JavaScript
+* React
 
 
 
